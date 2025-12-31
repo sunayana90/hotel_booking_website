@@ -1,5 +1,6 @@
 # Python
 venv/
+hotel-backend/venv/
 __pycache__/
 *.pyc
 
