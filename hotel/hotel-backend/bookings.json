@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sunayana Yadav",
+    "email": "yadavsunaina070@gmail.com",
+    "phone": "99205 99564",
+    "checkIn": "2025-12-23",
+    "checkOut": "2025-12-26",
+    "guests": "2",
+    "roomType": "executive",
+    "specialRequests": "no"
+  },
+  {
+    "name": "Sunayana Yadav",
+    "email": "yadavsunaina070@gmail.com",
+    "phone": "99205 99564",
+    "checkIn": "2025-12-24",
+    "checkOut": "2025-12-26",
+    "guests": 1,
+    "roomType": "executive",
+    "specialRequests": ""
+  },
+  {
+    "name": "Sunayana Yadav",
+    "email": "yadavsunaina070@gmail.com",
+    "phone": "99205-99564",
+    "checkIn": "2025-12-18",
+    "checkOut": "2025-12-26",
+    "guests": 1,
+    "roomType": "deluxe",
+    "specialRequests": ""
+  }
+]
